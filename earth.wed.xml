@@ -87,7 +87,18 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="5"/>
+                <sel id="5601"/>
+                <sel id="5602"/>
+                <sel id="5603"/>
+                <sel id="5604"/>
+                <sel id="5605"/>
+                <sel id="5606"/>
+                <sel id="5607"/>
+                <sel id="5608"/>
+                <sel id="5609"/>
+                <sel id="5610"/>
+                <sel id="5611"/>
+                <sel id="5612"/>
             </selection>
         </object>
         <object class="WED_TextureNode" id="4098" parent_id="4097">
@@ -218,6 +229,8 @@
             <sources/>
             <viewers/>
             <children>
+                <child id="5599"/>
+                <child id="5535"/>
                 <child id="5001"/>
                 <child id="5015"/>
                 <child id="4909"/>
@@ -232,6 +245,11 @@
                 <child id="4654"/>
                 <child id="4595"/>
                 <child id="5236"/>
+                <child id="5589"/>
+                <child id="5588"/>
+                <child id="5587"/>
+                <child id="5586"/>
+                <child id="5585"/>
                 <child id="5474"/>
                 <child id="5472"/>
                 <child id="5471"/>
@@ -27537,7 +27555,6 @@
             <viewers/>
             <children>
                 <child id="4128"/>
-                <child id="4129"/>
                 <child id="4130"/>
                 <child id="4131"/>
                 <child id="4132"/>
@@ -27562,15 +27579,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.405695969" longitude="91.915359130" split="0"/>
-            <markings/>
-        </object>
-        <object class="WED_AirportNode" id="4129" parent_id="4126">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.405536477" longitude="91.915498594" split="0"/>
+            <point ctrl_latitude_hi="-0.000151873" ctrl_latitude_lo="0.000151873" ctrl_longitude_hi="0.000050261" ctrl_longitude_lo="-0.000050261" latitude="24.405695969" longitude="91.915359130" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="4130" parent_id="4126">
@@ -28010,7 +28019,7 @@
                 <child id="4127"/>
                 <child id="4546"/>
             </children>
-            <hierarchy hidden="0" locked="1" name="Taxi"/>
+            <hierarchy hidden="0" locked="0" name="Taxi"/>
         </object>
         <object class="WED_ForestRing" id="4184" parent_id="4185">
             <sources/>
@@ -37481,7 +37490,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.397617897" longitude="91.906739274" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.397596659" longitude="91.906729679" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5476" parent_id="5473">
@@ -37489,7 +37498,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.397279643" longitude="91.909016635" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.397258405" longitude="91.909007040" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5477" parent_id="5473">
@@ -37497,7 +37506,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.392584768" longitude="91.911595479" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.392563530" longitude="91.911585884" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5478" parent_id="5473">
@@ -37505,7 +37514,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 4"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.388833874" longitude="91.916596212" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.388812636" longitude="91.916586617" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5479" parent_id="5473">
@@ -37513,7 +37522,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 5"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.389284456" longitude="91.919389781" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.389263218" longitude="91.919380186" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5480" parent_id="5473">
@@ -37521,7 +37530,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 6"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.403784432" longitude="91.918288086" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.403763194" longitude="91.918278491" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5481" parent_id="5473">
@@ -37529,7 +37538,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 7"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.407083202" longitude="91.917141425" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.407061964" longitude="91.917131830" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5482" parent_id="5473">
@@ -37537,7 +37546,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 8"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.406264231" longitude="91.912011067" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.406242993" longitude="91.912001472" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5483" parent_id="5473">
@@ -37545,7 +37554,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 9"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.405175211" longitude="91.908525034" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.405153973" longitude="91.908515439" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5484" parent_id="5473">
@@ -37553,7 +37562,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 10"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.402812592" longitude="91.907957540" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.402791354" longitude="91.907947945" split="0"/>
             <markings/>
         </object>
         <object class="WED_AirportNode" id="5485" parent_id="5473">
@@ -37561,8 +37570,1070 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 11"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.400099272" longitude="91.907511652" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.400078034" longitude="91.907502057" split="0"/>
             <markings/>
+        </object>
+        <object class="WED_ObjPlacement" id="5486" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="12m_wood.obj"/>
+            <point heading="-5.53" latitude="24.397944072" longitude="91.914109376"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_wood.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5487" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="12m_wood.obj"/>
+            <point heading="7.59" latitude="24.404268419" longitude="91.909922846"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/European_Airports/silos/12m_wood.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5488" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="caution.obj"/>
+            <point heading="86.05" latitude="24.398865524" longitude="91.913966016"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Traffic_Signs/German/no_base/caution.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5489" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="construction_site.obj"/>
+            <point heading="-5.44" latitude="24.398210611" longitude="91.914058647"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Traffic_Signs/German/no_base/construction_site.obj" show_level="2 A lot"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5490" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="construction_site.obj"/>
+            <point heading="-5.44" latitude="24.398173330" longitude="91.913667204"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Traffic_Signs/German/no_base/construction_site.obj" show_level="2 A lot"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5491" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="stop.obj"/>
+            <point heading="-98.35" latitude="24.398827897" longitude="91.913917153"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Traffic_Signs/German/no_base/stop.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5492" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="yield.obj"/>
+            <point heading="-11.31" latitude="24.398857286" longitude="91.910446698"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Traffic_Signs/German/no_base/yield.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5493" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="caution.obj"/>
+            <point heading="172.65" latitude="24.400299661" longitude="91.913909669"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Traffic_Signs/German/no_base/caution.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5494" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="no_light_3m.obj"/>
+            <point heading="-44.49" latitude="24.398859636" longitude="91.912877647"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/movable_plastic/no_light_3m.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5495" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="no_light_3m.obj"/>
+            <point heading="-44.49" latitude="24.398837703" longitude="91.912853050"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/movable_plastic/no_light_3m.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5496" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="no_light_3m.obj"/>
+            <point heading="-44.49" latitude="24.398813317" longitude="91.912824742"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/movable_plastic/no_light_3m.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5497" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="no_light_3m.obj"/>
+            <point heading="-44.49" latitude="24.398788931" longitude="91.912801025"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/movable_plastic/no_light_3m.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5498" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="no_light_3m.obj"/>
+            <point heading="-30.07" latitude="24.398767332" longitude="91.912771188"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Barriers/movable_plastic/no_light_3m.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5499" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="caravan_beige_7m.obj"/>
+            <point heading="9.87" latitude="24.404286238" longitude="91.910179719"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Vehicles/caravans/caravan_beige_7m.obj" show_level="2 A lot"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5500" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="caravan_new_6m.obj"/>
+            <point heading="8.53" latitude="24.404280436" longitude="91.910210342"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Vehicles/caravans/caravan_new_6m.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5501" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="forklift_red.obj"/>
+            <point heading="27.35" latitude="24.398736119" longitude="91.912846307"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Vehicles/forklifts/forklift_red.obj" show_level="3 Tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5502" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="forklift_yellow_up.obj"/>
+            <point heading="81.03" latitude="24.397730482" longitude="91.913385505"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Vehicles/forklifts/forklift_yellow_up.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5503" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="sailplane_trailer_var1.obj"/>
+            <point heading="0.00" latitude="24.398002937" longitude="91.913550977"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Vehicles/sailplane_trailer/sailplane_trailer_var1.obj" show_level="2 A lot"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5504" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="sailplane_trailer_var7.obj"/>
+            <point heading="-74.61" latitude="24.397939394" longitude="91.913542715"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Vehicles/sailplane_trailer/sailplane_trailer_var7.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5505" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="container_fire_extinguisher_metal.obj"/>
+            <point heading="81.57" latitude="24.398890855" longitude="91.912711331"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/container_fire_extinguisher_metal.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5506" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="container_fire_extinguisher_metal.obj"/>
+            <point heading="81.57" latitude="24.398990838" longitude="91.913900972"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Miscellaneous/container_fire_extinguisher_metal.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5507" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398716110" longitude="91.916353224"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5508" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398717271" longitude="91.916364700"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5509" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398717852" longitude="91.916374263"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5510" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398717852" longitude="91.916386377"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5511" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398718432" longitude="91.916401678"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5512" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398719593" longitude="91.916415704"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5513" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398720755" longitude="91.916427180"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5514" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398721335" longitude="91.916441206"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5515" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398721916" longitude="91.916458420"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5516" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398723077" longitude="91.916474359"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5517" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398724757" longitude="91.916485428"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5518" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="82.87" latitude="24.398724757" longitude="91.916499448"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5519" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="127.56" latitude="24.398719437" longitude="91.916517158"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5520" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.11" latitude="24.398710088" longitude="91.916528042"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5521" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.11" latitude="24.398703500" longitude="91.916540708"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5522" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.11" latitude="24.398696164" longitude="91.916552238"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5523" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.11" latitude="24.398689472" longitude="91.916563307"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5524" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.11" latitude="24.398682110" longitude="91.916574437"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5525" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.11" latitude="24.398674465" longitude="91.916586398"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5526" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398606674" longitude="91.916686673"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5527" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398592965" longitude="91.916688444"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5528" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398579659" longitude="91.916689330"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5529" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398563128" longitude="91.916690658"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5530" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398549419" longitude="91.916691543"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5531" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398534097" longitude="91.916691986"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5532" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398518775" longitude="91.916692429"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5533" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398503453" longitude="91.916693314"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5534" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="180.39" latitude="24.398512066" longitude="91.916528418"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="3 Tons"/>
+        </object>
+        <object class="WED_Group" id="5535" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="5506"/>
+                <child id="5534"/>
+                <child id="5557"/>
+                <child id="5533"/>
+                <child id="5584"/>
+                <child id="5532"/>
+                <child id="5561"/>
+                <child id="5531"/>
+                <child id="5570"/>
+                <child id="5530"/>
+                <child id="5558"/>
+                <child id="5529"/>
+                <child id="5583"/>
+                <child id="5528"/>
+                <child id="5581"/>
+                <child id="5527"/>
+                <child id="5579"/>
+                <child id="5526"/>
+                <child id="5555"/>
+                <child id="5549"/>
+                <child id="5578"/>
+                <child id="5525"/>
+                <child id="5556"/>
+                <child id="5546"/>
+                <child id="5569"/>
+                <child id="5524"/>
+                <child id="5554"/>
+                <child id="5545"/>
+                <child id="5568"/>
+                <child id="5523"/>
+                <child id="5552"/>
+                <child id="5548"/>
+                <child id="5577"/>
+                <child id="5522"/>
+                <child id="5553"/>
+                <child id="5550"/>
+                <child id="5582"/>
+                <child id="5521"/>
+                <child id="5560"/>
+                <child id="5544"/>
+                <child id="5567"/>
+                <child id="5520"/>
+                <child id="5551"/>
+                <child id="5547"/>
+                <child id="5576"/>
+                <child id="5519"/>
+                <child id="5562"/>
+                <child id="5518"/>
+                <child id="5575"/>
+                <child id="5517"/>
+                <child id="5563"/>
+                <child id="5516"/>
+                <child id="5566"/>
+                <child id="5515"/>
+                <child id="5559"/>
+                <child id="5514"/>
+                <child id="5574"/>
+                <child id="5513"/>
+                <child id="5580"/>
+                <child id="5512"/>
+                <child id="5565"/>
+                <child id="5511"/>
+                <child id="5573"/>
+                <child id="5510"/>
+                <child id="5571"/>
+                <child id="5509"/>
+                <child id="5572"/>
+                <child id="5508"/>
+                <child id="5564"/>
+                <child id="5507"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Runway Marker"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5544" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398658629" longitude="91.916612535"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5545" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398633459" longitude="91.916649771"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5546" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398624482" longitude="91.916661515"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5547" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398665667" longitude="91.916602212"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5548" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398641626" longitude="91.916638086"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5549" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398615158" longitude="91.916674138"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5550" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="123.56" latitude="24.398650575" longitude="91.916625917"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5551" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398966823" longitude="91.916544277"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5552" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398937027" longitude="91.916514056"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5553" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398947046" longitude="91.916525173"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5554" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398927360" longitude="91.916503844"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5555" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398907341" longitude="91.916481164"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5556" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398917728" longitude="91.916492743"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5557" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398878560" longitude="91.916353540"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5558" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398883268" longitude="91.916418916"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5559" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399106381" longitude="91.916624752"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5560" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.94" latitude="24.398958262" longitude="91.916535449"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5561" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398880945" longitude="91.916387113"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5562" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399053383" longitude="91.916629176"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5563" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399076211" longitude="91.916627044"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5564" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399186440" longitude="91.916618006"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5565" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399142343" longitude="91.916621111"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5566" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399090712" longitude="91.916625586"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5567" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.49" latitude="24.399029012" longitude="91.916600997"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5568" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.49" latitude="24.398999388" longitude="91.916574580"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5569" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.49" latitude="24.398990132" longitude="91.916565309"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5570" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398881936" longitude="91.916403908"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5571" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399167301" longitude="91.916620160"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5572" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399176003" longitude="91.916619413"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5573" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399156270" longitude="91.916620299"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5574" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399119147" longitude="91.916623953"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5575" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399066150" longitude="91.916629015"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5576" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="223.94" latitude="24.399037824" longitude="91.916612409"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5577" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.49" latitude="24.399008661" longitude="91.916583113"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5578" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.49" latitude="24.398980157" longitude="91.916555637"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5579" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="-132.42" latitude="24.398893578" longitude="91.916468668"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5580" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="172.22" latitude="24.399129584" longitude="91.916622547"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5581" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398886428" longitude="91.916451571"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5582" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="219.49" latitude="24.399018281" longitude="91.916592400"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5583" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398885111" longitude="91.916437005"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5584" parent_id="5535">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="White_Red_5.obj"/>
+            <point heading="268.19" latitude="24.398879954" longitude="91.916370318"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Runway_Markers/Barrels/White_Red_5.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5585" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Thin_Red_White.obj"/>
+            <point heading="0.00" latitude="24.398572233" longitude="91.913731735"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Thin_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5586" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Thin_Red_White.obj"/>
+            <point heading="0.00" latitude="24.398570789" longitude="91.913677796"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Thin_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5587" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Thin_Red_White.obj"/>
+            <point heading="0.00" latitude="24.398567899" longitude="91.913611166"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Thin_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5588" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Thin_Red_White.obj"/>
+            <point heading="0.00" latitude="24.398563565" longitude="91.913531845"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Thin_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5589" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Thin_Red_White.obj"/>
+            <point heading="0.00" latitude="24.398557786" longitude="91.913444591"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Thin_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5590" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.398203609" longitude="91.914193268"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5591" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.400736020" longitude="91.909432462"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5592" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.402278612" longitude="91.910475091"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="2 A lot"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5593" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.402289902" longitude="91.910479075"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="3 Tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5594" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.402287080" longitude="91.910466235"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="3 Tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5595" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.402283854" longitude="91.910456052"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="3 Tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5596" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Large_Red_White.obj"/>
+            <point heading="0.00" latitude="24.402216074" longitude="91.909734126"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Poles/Large_Red_White.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5597" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Large_2.obj"/>
+            <point heading="0.00" latitude="24.398827580" longitude="91.913777506"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Large_2.obj" show_level="3 Tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5598" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Large_2.obj"/>
+            <point heading="0.00" latitude="24.398825490" longitude="91.913767560"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Large_2.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_Group" id="5599" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="5612"/>
+                <child id="5611"/>
+                <child id="5610"/>
+                <child id="5609"/>
+                <child id="5608"/>
+                <child id="5607"/>
+                <child id="5606"/>
+                <child id="5605"/>
+                <child id="5604"/>
+                <child id="5603"/>
+                <child id="5602"/>
+                <child id="5601"/>
+                <child id="5600"/>
+                <child id="5505"/>
+                <child id="5504"/>
+                <child id="5503"/>
+                <child id="5502"/>
+                <child id="5501"/>
+                <child id="5500"/>
+                <child id="5499"/>
+                <child id="5498"/>
+                <child id="5497"/>
+                <child id="5496"/>
+                <child id="5495"/>
+                <child id="5494"/>
+                <child id="5493"/>
+                <child id="5492"/>
+                <child id="5491"/>
+                <child id="5490"/>
+                <child id="5489"/>
+                <child id="5488"/>
+                <child id="5487"/>
+                <child id="5486"/>
+                <child id="5598"/>
+                <child id="5597"/>
+                <child id="5596"/>
+                <child id="5595"/>
+                <child id="5594"/>
+                <child id="5593"/>
+                <child id="5592"/>
+                <child id="5590"/>
+                <child id="5591"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Cosmetic"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5600" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Large_3.obj"/>
+            <point heading="0.00" latitude="24.398794396" longitude="91.913498716"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Large_3.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5601" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Large_3.obj"/>
+            <point heading="0.00" latitude="24.398793560" longitude="91.913486781"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Large_3.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5602" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Large_3.obj"/>
+            <point heading="0.00" latitude="24.398792724" longitude="91.913470256"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Large_3.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5603" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_1.obj"/>
+            <point heading="0.00" latitude="24.398714630" longitude="91.912469610"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_1.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5604" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_1.obj"/>
+            <point heading="0.00" latitude="24.398712624" longitude="91.912456390"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_1.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5605" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_1.obj"/>
+            <point heading="0.00" latitude="24.398737950" longitude="91.912694681"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_1.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5606" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_1.obj"/>
+            <point heading="0.00" latitude="24.398727917" longitude="91.912696517"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_1.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5607" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_2.obj"/>
+            <point heading="0.00" latitude="24.398662798" longitude="91.912078713"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5608" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_2.obj"/>
+            <point heading="180.00" latitude="24.398656109" longitude="91.912080549"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5609" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_2.obj"/>
+            <point heading="0.00" latitude="24.398359190" longitude="91.911377849"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5610" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_2.obj"/>
+            <point heading="0.00" latitude="24.398357986" longitude="91.911360663"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5611" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_2.obj"/>
+            <point heading="0.00" latitude="24.398373638" longitude="91.911473035"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5612" parent_id="5599">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Red_White_Open_2.obj"/>
+            <point heading="0.00" latitude="24.398372434" longitude="91.911453204"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj" show_level="4 Mega tons"/>
         </object>
     </objects>
     <prefs>
@@ -37581,18 +38652,20 @@
             <item value="5001"/>
             <item value="5015"/>
             <item value="5236"/>
+            <item value="5535"/>
+            <item value="5599"/>
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="91.917294"/>
-        <pref name="map/north" value="24.405689"/>
+        <pref name="map/east" value="91.912016"/>
+        <pref name="map/north" value="24.398926"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="24.400766"/>
+        <pref name="map/south" value="24.397781"/>
         <pref name="map/vertices_vis" value="0"/>
-        <pref name="map/west" value="91.913662"/>
+        <pref name="map/west" value="91.911172"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -37614,7 +38687,7 @@
         <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
         <pref name="map_Light Fixture_Fixture Type" value="35"/>
         <pref name="map_Lines_Resource" value="lib/airport/lines/1_single_taxi.lin"/>
-        <pref name="map_Objects_Object" value="lib/airport/Common_Elements/Markers/Cones/Red_White_Large_2.obj"/>
+        <pref name="map_Objects_Object" value="lib/airport/Common_Elements/Markers/Cones/Red_White_Open_2.obj"/>
         <pref name="map_Objects_Show with" value="564"/>
         <pref name="map_Polygons_Heading" value="0.000000"/>
         <pref name="map_Polygons_Resource" value="lib/airport/pavement/concrete_1D.pol"/>
