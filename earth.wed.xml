@@ -87,18 +87,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="5601"/>
-                <sel id="5602"/>
-                <sel id="5603"/>
-                <sel id="5604"/>
-                <sel id="5605"/>
-                <sel id="5606"/>
-                <sel id="5607"/>
-                <sel id="5608"/>
-                <sel id="5609"/>
-                <sel id="5610"/>
-                <sel id="5611"/>
-                <sel id="5612"/>
+                <sel id="5"/>
             </selection>
         </object>
         <object class="WED_TextureNode" id="4098" parent_id="4097">
@@ -256,7 +245,7 @@
                 <child id="5469"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Shamshernagar"/>
-            <airport always_flatten="0" drive_on_left="1" elevation="17.1" has_atc="1" icao="VGSH" kind="Airport" scenery_id="-1"/>
+            <airport always_flatten="0" drive_on_left="1" elevation="17.1" has_atc="1" icao="VGSH" kind="Airport" scenery_id="57479"/>
             <meta_data>
                 <meta_data_entry pair="city,Moulvibazar"/>
                 <meta_data_entry pair="country,Bangladesh"/>
@@ -2685,6 +2674,14 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point latitude="24.402135000" longitude="91.900634000"/>
             <texture_node s="0.0000" t="0.0000"/>
+        </object>
+        <object class="WED_AirportNode" id="5362" parent_id="5356">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 5"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.399558829" longitude="91.911060691" split="0"/>
+            <markings/>
         </object>
         <object class="WED_TextureNode" id="1267" parent_id="1265">
             <sources/>
@@ -36496,14 +36493,6 @@
                 <marking value="Solid White (Roadway)"/>
             </markings>
         </object>
-        <object class="WED_AirportNode" id="5362" parent_id="5356">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 5"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="24.399558829" longitude="91.911060691" split="0"/>
-            <markings/>
-        </object>
         <object class="WED_AirportNode" id="5363" parent_id="5356">
             <sources/>
             <viewers/>
@@ -38657,15 +38646,15 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="91.912016"/>
-        <pref name="map/north" value="24.398926"/>
+        <pref name="map/east" value="91.918931"/>
+        <pref name="map/north" value="24.410755"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="24.397781"/>
+        <pref name="map/south" value="24.387532"/>
         <pref name="map/vertices_vis" value="0"/>
-        <pref name="map/west" value="91.911172"/>
+        <pref name="map/west" value="91.901798"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -38741,8 +38730,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="368"/>
         <pref name="window/main_split2" value="1112"/>
-        <pref name="window/prev_split" value="773"/>
-        <pref name="window/prop_split" value="637"/>
+        <pref name="window/prev_split" value="783"/>
+        <pref name="window/prop_split" value="647"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
